@@ -1,0 +1,14 @@
+.user-pill{
+    height: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: black;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.user-pill img{
+    height: 100%;
+}
